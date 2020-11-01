@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+htmlcov/
+.coverage
+.coverage.*
+.pytest_cache/
+dist/
+*.egg-info/
+*.log
+
+# dask related
+profile.html
+dask-worker-space
